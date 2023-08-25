@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "This is for jenkins testing" );
+        System.out.println( "This is for jenkins second round" );
     }
 }
