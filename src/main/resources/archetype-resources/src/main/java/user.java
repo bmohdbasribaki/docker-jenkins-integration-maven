@@ -29,4 +29,8 @@ public class user{
     public void setJobDesc(String jobDesc) {
         this.jobDesc = jobDesc;
     }
+
+    public static void getMessage(){
+        System.out.println(" hello message");
+    }
 }
